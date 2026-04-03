@@ -4,6 +4,11 @@
 
 
 
+Test hesabı bilgileri ;
+    test@test.com
+    123456
+
+
 
 # 🏢 CorpConnect - Kurumsal İletişim Platformu
 
