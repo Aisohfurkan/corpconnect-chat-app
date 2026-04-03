@@ -1,6 +1,6 @@
 ![CorpConnect Genel Görünüm](./docs/1.png)
 ![CorpConnect Genel Görünüm](./docs/2.png)
-![CorpConnect Genel Görünüm](./docs/3.png)
+
 
 
 
